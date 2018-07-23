@@ -13,10 +13,14 @@
 - [A curated list of awesome Go frameworks, libraries and software (@avelino)](https://github.com/avelino/awesome-go)
 - [Markdown Cheatsheet (@adam-p)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [A simple (99% ES2015 less) tutorial for React (@kay-is)](https://github.com/kay-is/react-from-zero)
+- [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. (@donnemartin)](https://github.com/donnemartin/system-design-primer)
+- [The only cheat sheet you need (@chubin)](https://github.com/chubin/cheat.sh)
+- [Tracking the most popular Github repos, updated daily (@josephyzhou)](https://github.com/josephyzhou/github-trending)
 
 ### Front
 
 - [Material Dashboard - Open Source Bootstrap 4 Material Design Admin (@creativetimofficial)](https://github.com/creativetimofficial/material-dashboard)
+- [Front-End Performance Checklist (@thedaviddias)](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
 ### Back
 
